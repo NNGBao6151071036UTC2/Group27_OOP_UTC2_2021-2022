@@ -1,3 +1,12 @@
+/*
+ OOP - UTC2
+    Great Excercise
+    Team 27
+    Members:
+        Nguyen Ngoc Gia Bao - 6151071036
+        Nguyen Huy - 6151071053
+        Nguyen Thanh Dat - 6151071040
+*/
 #include <iostream>
 #include "mylib.h"
 #define MAX 100
